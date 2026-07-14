@@ -1,0 +1,6 @@
+{
+  "name": "AI Ayurvedic Digital Twin",
+  "description": "An AI-powered health intelligence platform that creates a Digital Twin of your health using lifestyle indicators, ayurvedic questionnaires, and Gemini-based Dosha analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
