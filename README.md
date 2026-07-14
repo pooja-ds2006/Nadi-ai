@@ -1,2 +1,2 @@
 # Nadi-ai
-Nadi - AI Ayurvedic Digital Twin 
+Nadi - AI Ayurvedic Digital Twin
