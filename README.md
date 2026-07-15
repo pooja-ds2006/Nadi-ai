@@ -65,7 +65,7 @@ Nadi/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nadi-ai.git
+git clone https://github.com/pooja-ds2006/Nadi-ai.git
 ```
 
 Go to the project folder
